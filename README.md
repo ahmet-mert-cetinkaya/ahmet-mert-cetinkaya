@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Ahmet Mert ÇETİNKAYA</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=9B59B6&center=true&width=435&lines=ERP+Developer;MSSQL+%2F+C%23+Enthusiast;Clean+Code+%7C+Sharp+Mind;Always+Learning..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=9B59B6&center=true&width=435&lines=Software+Developer;MSSQL+%2F+C%23+Enthusiast;Clean+Code+%7C+Sharp+Mind;Always+Learning..." alt="Typing SVG" />
 </p>
 
 <p align="center">
