@@ -26,6 +26,7 @@
 [![Looker Studio Badge](https://img.shields.io/badge/-Looker%20Studio-4285F4?style=flat-square&logo=googleanalytics&logoColor=white)]()
 [![BigQuery Badge](https://img.shields.io/badge/-BigQuery-1A73E8?style=flat-square&logo=googlecloud&logoColor=white)]()
 [![ERP Badge](https://img.shields.io/badge/-ERP-9B59B6?style=flat-square&logo=windows&logoColor=white)]()
+[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)]()
 [![Backend Developer Badge](https://img.shields.io/badge/-Backend%20Developer-2C3E50?style=flat-square&logo=react&logoColor=white)]()
 
 
