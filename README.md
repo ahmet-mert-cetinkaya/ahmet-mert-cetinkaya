@@ -1,4 +1,8 @@
-<h1 align="center" style="color:#FFFFFF;">👨🏽‍💻 Ahmet Mert ÇETİNKAYA</h1>
+<h1 align="center" style="color:#FFFFFF;">
+  👨🏽‍💻 Ahmet Mert ÇETİNKAYA  
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding GIF" width="40" style="vertical-align:middle; margin-left:10px;" />
+</h1>
+
 
 <p align="center" style="background-color:#000000; padding:20px; border-radius:12px;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=FFFFFF&center=true&width=480&lines=Software+Developer;MSSQL+%2F+C%23+Enthusiast;Clean+Code%20%7C%20Sharp%20Mind;Always+Learning..." alt="Typing SVG" />
