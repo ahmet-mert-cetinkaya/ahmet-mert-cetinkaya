@@ -55,14 +55,14 @@
 
 ### 📊 GitHub İstatistikleri
 
-<p align="center" style="background-color:#000000; padding:20px; border-radius:12px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmet-mert-cetinkaya&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmet-mert-cetinkaya&show_icons=true&theme=dark" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmet-mert-cetinkaya&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=FFFFFF"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmet-mert-cetinkaya&layout=compact&hide_border=true&theme=dark" />
 </p>
 
-<p align="center" style="background-color:#000000; padding:10px 0 20px 0; border-radius:12px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmet-mert-cetinkaya&theme=github-dark&area=true&hide_border=true&color=FFFFFF&bg_color=000000" alt="Contribution Graph"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmet-mert-cetinkaya&theme=github-dark&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
