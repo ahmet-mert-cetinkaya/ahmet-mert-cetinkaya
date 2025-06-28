@@ -62,13 +62,21 @@
 ### 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmet-mert-cetinkaya&show_icons=true&theme=dark" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmet-mert-cetinkaya&layout=compact&hide_border=true&theme=dark" />
+  <!-- Profil genel istatistikler -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmet-mert-cetinkaya&theme=github_dark" />
+  <br /><br />
+  
+  <!-- Diller ve kullanım yüzdeleri -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmet-mert-cetinkaya&theme=github_dark" />
+  <br /><br />
+  
+  <!-- En çok repo katkısı yapılan projeler -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmet-mert-cetinkaya&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmet-mert-cetinkaya&theme=github-dark&area=true&hide_border=true" alt="Contribution Graph"/>
+  <!-- Katılım (contributions) grafiği benzer style ile -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmet-mert-cetinkaya&theme=dark" alt="GitHub Streak Stats" />
 </p>
 
 
