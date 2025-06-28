@@ -1,6 +1,6 @@
 <h1 align="center" style="color:#FFFFFF;">
-  👨🏽‍💻 Ahmet Mert ÇETİNKAYA
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Matrix Code GIF" width="60" style="vertical-align:middle; margin-left:10px;" />
+  👨🏽‍💻 Ahmet Mert ÇETİNKAYA  
+  <img src="https://media.giphy.com/media/l41lVZrz8ssAgU3sI/giphy.gif" alt="Matrix Code GIF" width="60" style="vertical-align:middle; margin-left:10px;" />
 </h1>
 
 
