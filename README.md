@@ -58,8 +58,6 @@
 ![BigQuery](https://img.shields.io/badge/Google%20BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
 
 ---
-
-### 🛠️ En Çok Kullandığım Diller
 <p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmet-mert-cetinkaya&theme=github-dark&area=true&hide_border=true&width=900&height=200" />
 </p>
