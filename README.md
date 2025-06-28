@@ -1,7 +1,8 @@
 <h1 align="center" style="color:#FFFFFF;">
   👨🏽‍💻 Ahmet Mert ÇETİNKAYA  
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding GIF" width="40" style="vertical-align:middle; margin-left:10px;" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Typing Code" width="40" style="vertical-align:middle; margin-left:10px;" />
 </h1>
+
 
 
 <p align="center" style="background-color:#000000; padding:20px; border-radius:12px;">
