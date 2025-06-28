@@ -59,11 +59,18 @@
 
 ---
 
-### 📊 GitHub İstatistikleri
+### 🛠️ En Çok Kullandığım Diller
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmet-mert-cetinkaya&theme=github_dark" />
+  <!-- Kullandığın dillerin yüzdelik dağılımı (dairesel grafik) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmet-mert-cetinkaya&layout=pie&theme=dark" alt="Top Languages Pie Chart" />
 </p>
+
+<p align="center">
+  <!-- Kullandığın dillerin yatay çubuk grafik görünümü -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmet-mert-cetinkaya&layout=compact&theme=dark" alt="Top Languages Bar Chart" />
+</p>
+
 
 
 ---
