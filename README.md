@@ -1,6 +1,6 @@
 <h1 align="center" style="color:#FFFFFF;">
   👨🏽‍💻 Ahmet Mert ÇETİNKAYA  
-<img src="https://media.giphy.com/media/KX5nwoDX97AtPvKBF6/giphy.gif" alt="Motion Graphics 1" width="40" style="vertical-align:middle; margin-left:10px;" />
+  <img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" alt="Code GIF" width="40" style="vertical-align:middle; margin-left:10px;" />
 </h1>
 
 
