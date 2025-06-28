@@ -61,7 +61,7 @@
 
 ### 🛠️ En Çok Kullandığım Diller
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmet-mert-cetinkaya&layout=compact&theme=dark" alt="Top Languages Bar Chart" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmet-mert-cetinkaya&theme=github-dark&area=true&hide_border=true&width=900&height=200" />
 </p>
 
 ---
